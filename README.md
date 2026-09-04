@@ -32,7 +32,7 @@ I didn't retry any URLS. I omitted ~1900 URLs which were the same JSON file from
 
 I did this because I expect many of these links will prove to be ephemeral, and someone might be curious about what the bots were reading. 
 
-Why would anyone find this interesting? What prompted me to do this is I noticed that one URL in the wiki was a PDF from the piv.max.gov domain, proxied through a markdown scraping service. From everything I can find, most of that website is only accessible by federal employees and contractors. While some parts of it are public, the 'piv' subdomain does not appear to be among them. 
+Why would anyone find this interesting? What prompted me to do this is I noticed that one URL in the wiki was a PDF from the [piv.max.gov](https://piv.max.gov) domain, proxied through a markdown scraping service. From everything I can find, most of that website is only accessible by federal employees and contractors. While some parts of it are public, the 'piv' subdomain does not appear to be among them. 
 
 Scrape logs in this repo, full output containing 22,592 items, totaling 600.1 MB available in [Releases](https://github.com/JonGerhardson/collusion_wiki_scrape/releases/tag/tag) 
 
