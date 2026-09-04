@@ -1,0 +1,1215 @@
+{
+  "generated_at": "2026-09-04T23:05:01.095Z",
+  "manifest": "collusion-wiki-scraper/scrape-output/manifest.jsonl",
+  "total_entries": 22636,
+  "ok": 18655,
+  "failed": 3981,
+  "total_bytes": 598466882,
+  "status_counts": {
+    "0": 157,
+    "200": 18653,
+    "202": 2,
+    "400": 396,
+    "401": 85,
+    "403": 442,
+    "404": 340,
+    "405": 2,
+    "408": 1,
+    "409": 2,
+    "410": 225,
+    "415": 5,
+    "429": 1337,
+    "500": 907,
+    "502": 41,
+    "504": 18,
+    "522": 23
+  },
+  "error_counts": {
+    "timeout": 6,
+    "fetch failed": 145,
+    "Failed to parse URL from https://md.succ.ai%2fhttps%253a%252f%252fwww.sec.gov%252ffiles%252fcounty.json": 1,
+    "Failed to parse URL from https://www.sec.gov%2ffiles%2fcounty.json": 1,
+    "Failed to parse URL from https://allorigins%252ehexlet%252eapp/raw?url=https%3A%2F%2Fwww.sec.gov%2Ffiles%2Fcounty.json%3Fformat%3Djson": 1,
+    "Failed to parse URL from https://allorigins%252ehexlet%252eapp/get?url=https%3A%2F%2Fwww.sec.gov%2Ffiles%2Fcounty.json": 1,
+    "Failed to parse URL from https://allorigins%252ehexlet%252eapp/raw?url=https%3A%2F%2Fwww.sec.gov%2Ffiles%2Fcounty.json": 1,
+    "terminated": 1
+  },
+  "per_host": {
+    "wikiservice.at": {
+      "total": 9977,
+      "ok": 9935,
+      "failed": 42,
+      "bytes": 5322553
+    },
+    "jqp.vercel.app": {
+      "total": 3411,
+      "ok": 2537,
+      "failed": 874,
+      "bytes": 10452666
+    },
+    "api.datausa.io": {
+      "total": 2179,
+      "ok": 1930,
+      "failed": 249,
+      "bytes": 45423356
+    },
+    "md.succ.ai": {
+      "total": 1144,
+      "ok": 256,
+      "failed": 888,
+      "bytes": 21544634
+    },
+    "www.wikiservice.at": {
+      "total": 694,
+      "ok": 693,
+      "failed": 1,
+      "bytes": 424836
+    },
+    "markdown.new": {
+      "total": 546,
+      "ok": 351,
+      "failed": 195,
+      "bytes": 25428646
+    },
+    "www.sec.gov": {
+      "total": 435,
+      "ok": 201,
+      "failed": 234,
+      "bytes": 29292308
+    },
+    "jsonhero.io": {
+      "total": 385,
+      "ok": 326,
+      "failed": 59,
+      "bytes": 81267027
+    },
+    "www.investor.gov": {
+      "total": 298,
+      "ok": 260,
+      "failed": 38,
+      "bytes": 32378394
+    },
+    "allorigins.hexlet.app": {
+      "total": 287,
+      "ok": 235,
+      "failed": 52,
+      "bytes": 31426817
+    },
+    "cors.bwa.workers.dev": {
+      "total": 262,
+      "ok": 160,
+      "failed": 102,
+      "bytes": 64754417
+    },
+    "pure.md": {
+      "total": 261,
+      "ok": 137,
+      "failed": 124,
+      "bytes": 7095078
+    },
+    "api-la.datausa.io": {
+      "total": 229,
+      "ok": 202,
+      "failed": 27,
+      "bytes": 4277691
+    },
+    "r.jina.ai": {
+      "total": 210,
+      "ok": 0,
+      "failed": 210,
+      "bytes": 1253921
+    },
+    "www.proxymule.com": {
+      "total": 169,
+      "ok": 150,
+      "failed": 19,
+      "bytes": 7998067
+    },
+    "rspace.library.cofc.edu": {
+      "total": 141,
+      "ok": 140,
+      "failed": 1,
+      "bytes": 1361967
+    },
+    "docs.google.com": {
+      "total": 123,
+      "ok": 24,
+      "failed": 99,
+      "bytes": 1578169
+    },
+    "prowiki.org": {
+      "total": 98,
+      "ok": 97,
+      "failed": 1,
+      "bytes": 80196
+    },
+    "corsmirror.com": {
+      "total": 89,
+      "ok": 63,
+      "failed": 26,
+      "bytes": 6644856
+    },
+    "api.counterapi.dev": {
+      "total": 87,
+      "ok": 0,
+      "failed": 87,
+      "bytes": 15834
+    },
+    "hub.catalogit.app": {
+      "total": 79,
+      "ok": 20,
+      "failed": 59,
+      "bytes": 3490910
+    },
+    "api.usaspending.gov": {
+      "total": 76,
+      "ok": 51,
+      "failed": 25,
+      "bytes": 849660
+    },
+    "datausa.io": {
+      "total": 72,
+      "ok": 55,
+      "failed": 17,
+      "bytes": 7392173
+    },
+    "memgator.cs.odu.edu": {
+      "total": 67,
+      "ok": 66,
+      "failed": 1,
+      "bytes": 11265654
+    },
+    "api.cors.lol": {
+      "total": 65,
+      "ok": 4,
+      "failed": 61,
+      "bytes": 52398
+    },
+    "proxy.corsfix.com": {
+      "total": 57,
+      "ok": 0,
+      "failed": 57,
+      "bytes": 16279
+    },
+    "example.com": {
+      "total": 54,
+      "ok": 9,
+      "failed": 45,
+      "bytes": 30186
+    },
+    "www.prowiki.org": {
+      "total": 54,
+      "ok": 54,
+      "failed": 0,
+      "bytes": 39836
+    },
+    "cors-get-proxy.sirjosh.workers.dev": {
+      "total": 53,
+      "ok": 50,
+      "failed": 3,
+      "bytes": 940093
+    },
+    "is.gd": {
+      "total": 48,
+      "ok": 35,
+      "failed": 13,
+      "bytes": 261048
+    },
+    "lcdl.library.cofc.edu": {
+      "total": 48,
+      "ok": 47,
+      "failed": 1,
+      "bytes": 272779
+    },
+    "cors.hypnguyen.workers.dev": {
+      "total": 39,
+      "ok": 22,
+      "failed": 17,
+      "bytes": 33335627
+    },
+    "tinyurl.com": {
+      "total": 39,
+      "ok": 30,
+      "failed": 9,
+      "bytes": 1805368
+    },
+    "vanderbi.lt": {
+      "total": 38,
+      "ok": 32,
+      "failed": 6,
+      "bytes": 3758132
+    },
+    "viz.aihw.gov.au": {
+      "total": 38,
+      "ok": 0,
+      "failed": 38,
+      "bytes": 243525
+    },
+    "www.wikiservice.com": {
+      "total": 38,
+      "ok": 37,
+      "failed": 1,
+      "bytes": 41267
+    },
+    "finance.yahoo.co.jp": {
+      "total": 35,
+      "ok": 35,
+      "failed": 0,
+      "bytes": 7292308
+    },
+    "drive.google.com": {
+      "total": 31,
+      "ok": 1,
+      "failed": 30,
+      "bytes": 59522
+    },
+    "v.gd": {
+      "total": 28,
+      "ok": 27,
+      "failed": 1,
+      "bytes": 75210
+    },
+    "api.allorigins.win": {
+      "total": 23,
+      "ok": 6,
+      "failed": 17,
+      "bytes": 157258
+    },
+    "cloudflare-cors-anywhere.hanpengchen.workers.dev": {
+      "total": 22,
+      "ok": 6,
+      "failed": 16,
+      "bytes": 799989
+    },
+    "web.archive.org": {
+      "total": 22,
+      "ok": 21,
+      "failed": 1,
+      "bytes": 2850282
+    },
+    "iiif.library.cofc.edu": {
+      "total": 20,
+      "ok": 20,
+      "failed": 0,
+      "bytes": 7346450
+    },
+    "piv.max.gov": {
+      "total": 17,
+      "ok": 7,
+      "failed": 10,
+      "bytes": 31700002
+    },
+    "example.org": {
+      "total": 17,
+      "ok": 4,
+      "failed": 13,
+      "bytes": 9503
+    },
+    "test.cors.workers.dev": {
+      "total": 16,
+      "ok": 0,
+      "failed": 16,
+      "bytes": 88864
+    },
+    "httpbin.org": {
+      "total": 15,
+      "ok": 13,
+      "failed": 2,
+      "bytes": 158980
+    },
+    "api.census.gov": {
+      "total": 15,
+      "ok": 15,
+      "failed": 0,
+      "bytes": 533122
+    },
+    "cdm16022.contentdm.oclc.org": {
+      "total": 14,
+      "ok": 12,
+      "failed": 2,
+      "bytes": 1975173
+    },
+    "platform.lemino.ai": {
+      "total": 13,
+      "ok": 11,
+      "failed": 2,
+      "bytes": 943953
+    },
+    "webcrawlerapi.com": {
+      "total": 11,
+      "ok": 10,
+      "failed": 1,
+      "bytes": 771114
+    },
+    "md.dhr.wtf": {
+      "total": 11,
+      "ok": 6,
+      "failed": 5,
+      "bytes": 530004
+    },
+    "code.highcharts.com": {
+      "total": 11,
+      "ok": 11,
+      "failed": 0,
+      "bytes": 3123613
+    },
+    "translate.google.com": {
+      "total": 11,
+      "ok": 5,
+      "failed": 6,
+      "bytes": 779128
+    },
+    "wikiservice.com": {
+      "total": 11,
+      "ok": 10,
+      "failed": 1,
+      "bytes": 14726
+    },
+    "pages.pagesuite.com": {
+      "total": 11,
+      "ok": 6,
+      "failed": 5,
+      "bytes": 3497864
+    },
+    "services3.arcgis.com": {
+      "total": 11,
+      "ok": 11,
+      "failed": 0,
+      "bytes": 42190
+    },
+    "www-sec-gov.translate.goog": {
+      "total": 10,
+      "ok": 0,
+      "failed": 10,
+      "bytes": 65799
+    },
+    "cors.isomorphic-git.org": {
+      "total": 9,
+      "ok": 0,
+      "failed": 9,
+      "bytes": 40971
+    },
+    "www-investor-gov.translate.goog": {
+      "total": 9,
+      "ok": 7,
+      "failed": 2,
+      "bytes": 1046640
+    },
+    "corsproxy.io": {
+      "total": 9,
+      "ok": 0,
+      "failed": 9,
+      "bytes": 2175
+    },
+    "www.themagazinearchive.com": {
+      "total": 9,
+      "ok": 9,
+      "failed": 0,
+      "bytes": 3632228
+    },
+    "lcdl.library.cofc.edu.": {
+      "total": 9,
+      "ok": 9,
+      "failed": 0,
+      "bytes": 2034
+    },
+    "wayback.archive-it.org": {
+      "total": 9,
+      "ok": 9,
+      "failed": 0,
+      "bytes": 39843
+    },
+    "portal.max.gov": {
+      "total": 8,
+      "ok": 6,
+      "failed": 2,
+      "bytes": 34951293
+    },
+    "vizhub.healthdata.org": {
+      "total": 8,
+      "ok": 6,
+      "failed": 2,
+      "bytes": 464741
+    },
+    "api.catalogit.app": {
+      "total": 8,
+      "ok": 7,
+      "failed": 1,
+      "bytes": 2939782
+    },
+    "proxymule.com": {
+      "total": 8,
+      "ok": 4,
+      "failed": 4,
+      "bytes": 262289
+    },
+    "api.microlink.io": {
+      "total": 8,
+      "ok": 6,
+      "failed": 2,
+      "bytes": 5735
+    },
+    "vercel-cors-proxy.vercel.app": {
+      "total": 7,
+      "ok": 7,
+      "failed": 0,
+      "bytes": 309027
+    },
+    "magic-html-api.vercel.app": {
+      "total": 7,
+      "ok": 7,
+      "failed": 0,
+      "bytes": 1488883
+    },
+    "da.gd": {
+      "total": 7,
+      "ok": 6,
+      "failed": 1,
+      "bytes": 155099
+    },
+    "api.codetabs.com": {
+      "total": 7,
+      "ok": 0,
+      "failed": 7,
+      "bytes": 50704
+    },
+    "api.ocr.space": {
+      "total": 7,
+      "ok": 7,
+      "failed": 0,
+      "bytes": 46543
+    },
+    "ctxr.me": {
+      "total": 7,
+      "ok": 7,
+      "failed": 0,
+      "bytes": 8156
+    },
+    "query1.finance.yahoo.com": {
+      "total": 7,
+      "ok": 5,
+      "failed": 2,
+      "bytes": 6580
+    },
+    "cf-cors.findme-19.workers.dev": {
+      "total": 6,
+      "ok": 2,
+      "failed": 4,
+      "bytes": 34945
+    },
+    "login.max.gov": {
+      "total": 6,
+      "ok": 6,
+      "failed": 0,
+      "bytes": 26459077
+    },
+    "cgsc.contentdm.oclc.org": {
+      "total": 5,
+      "ok": 3,
+      "failed": 2,
+      "bytes": 144810
+    },
+    "unknown": {
+      "total": 5,
+      "ok": 0,
+      "failed": 5,
+      "bytes": 0
+    },
+    "collection.mndigital.org": {
+      "total": 5,
+      "ok": 0,
+      "failed": 5,
+      "bytes": 28364
+    },
+    "reflections.mndigital.org": {
+      "total": 5,
+      "ok": 0,
+      "failed": 5,
+      "bytes": 28369
+    },
+    "index.commoncrawl.org": {
+      "total": 5,
+      "ok": 1,
+      "failed": 4,
+      "bytes": 35319
+    },
+    "archive.org": {
+      "total": 4,
+      "ok": 4,
+      "failed": 0,
+      "bytes": 894258
+    },
+    "investor.gov": {
+      "total": 4,
+      "ok": 4,
+      "failed": 0,
+      "bytes": 591360
+    },
+    "api.dp.la": {
+      "total": 4,
+      "ok": 2,
+      "failed": 2,
+      "bytes": 25190
+    },
+    "example.net": {
+      "total": 4,
+      "ok": 2,
+      "failed": 2,
+      "bytes": 2236
+    },
+    "doc-08-bk-apps-viewer.googleusercontent.com": {
+      "total": 4,
+      "ok": 1,
+      "failed": 3,
+      "bytes": 77925
+    },
+    "wayback.archive.org": {
+      "total": 4,
+      "ok": 4,
+      "failed": 0,
+      "bytes": 632540
+    },
+    "viewpagesource.online": {
+      "total": 4,
+      "ok": 4,
+      "failed": 0,
+      "bytes": 1115519
+    },
+    "cors-bypasser-pro.vercel.app": {
+      "total": 3,
+      "ok": 2,
+      "failed": 1,
+      "bytes": 341101
+    },
+    "urltomarkdown.herokuapp.com": {
+      "total": 3,
+      "ok": 3,
+      "failed": 0,
+      "bytes": 312669
+    },
+    "www.oecd.org": {
+      "total": 3,
+      "ok": 2,
+      "failed": 1,
+      "bytes": 7505699
+    },
+    "la.datausa.io": {
+      "total": 3,
+      "ok": 0,
+      "failed": 3,
+      "bytes": 21679
+    },
+    "www.google.com": {
+      "total": 3,
+      "ok": 1,
+      "failed": 2,
+      "bytes": 5038
+    },
+    "max.omb.gov": {
+      "total": 3,
+      "ok": 0,
+      "failed": 3,
+      "bytes": 1811
+    },
+    "doc-10-bk-apps-viewer.googleusercontent.com": {
+      "total": 3,
+      "ok": 0,
+      "failed": 3,
+      "bytes": 4951
+    },
+    "bitily.in": {
+      "total": 3,
+      "ok": 3,
+      "failed": 0,
+      "bytes": 33
+    },
+    "server16022.contentdm.oclc.org": {
+      "total": 3,
+      "ok": 2,
+      "failed": 1,
+      "bytes": 7836
+    },
+    "api-ts.datausa.io": {
+      "total": 3,
+      "ok": 2,
+      "failed": 1,
+      "bytes": 742379
+    },
+    "api-ts-dev.datausa.io": {
+      "total": 3,
+      "ok": 3,
+      "failed": 0,
+      "bytes": 743354
+    },
+    "fly.wordfinderapi.com": {
+      "total": 3,
+      "ok": 1,
+      "failed": 2,
+      "bytes": 1815
+    },
+    "markdown.microlink.io": {
+      "total": 3,
+      "ok": 2,
+      "failed": 1,
+      "bytes": 1440
+    },
+    "finance.yahoo.com": {
+      "total": 3,
+      "ok": 0,
+      "failed": 3,
+      "bytes": 502
+    },
+    "proxy-mu-seven-70.vercel.app": {
+      "total": 2,
+      "ok": 2,
+      "failed": 0,
+      "bytes": 341016
+    },
+    "sec.gov": {
+      "total": 2,
+      "ok": 1,
+      "failed": 1,
+      "bytes": 148144
+    },
+    "countapi.mileshilliard.com": {
+      "total": 2,
+      "ok": 2,
+      "failed": 0,
+      "bytes": 86
+    },
+    "api.ourworldindata.org": {
+      "total": 2,
+      "ok": 2,
+      "failed": 0,
+      "bytes": 254998
+    },
+    "foo.blob.core.windows.net": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 496
+    },
+    "thingproxy.freeboard.io": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 0
+    },
+    "doc-0g-bk-apps-viewer.googleusercontent.com": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 3390
+    },
+    "e.infogram.com": {
+      "total": 2,
+      "ok": 2,
+      "failed": 0,
+      "bytes": 138032
+    },
+    "dp.la": {
+      "total": 2,
+      "ok": 2,
+      "failed": 0,
+      "bytes": 0
+    },
+    "doc-0s-bk-apps-viewer.googleusercontent.com": {
+      "total": 2,
+      "ok": 1,
+      "failed": 1,
+      "bytes": 74535
+    },
+    "data.sec.gov": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 576
+    },
+    "editions.themagazinearchive.org": {
+      "total": 2,
+      "ok": 2,
+      "failed": 0,
+      "bytes": 43703
+    },
+    "api.shotapi.io": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 0
+    },
+    "www.example.com": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 1118
+    },
+    "raw.githubusercontent.com": {
+      "total": 2,
+      "ok": 2,
+      "failed": 0,
+      "bytes": 21894
+    },
+    "allorigins.win": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 18758
+    },
+    "unctadstat-api.unctad.org": {
+      "total": 2,
+      "ok": 1,
+      "failed": 1,
+      "bytes": 2931
+    },
+    "doc-00-bk-apps-viewer.googleusercontent.com": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 3390
+    },
+    "query2.finance.yahoo.com": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 224
+    },
+    "files.usaspending.gov": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 4262
+    },
+    "www.investor.gov_18000": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 0
+    },
+    "www.investor.gov_25000": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 0
+    },
+    "www.investor.gov_6000": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 0
+    },
+    "www.investor.gov_12000": {
+      "total": 2,
+      "ok": 0,
+      "failed": 2,
+      "bytes": 0
+    },
+    "vizprod.aihw.gov.au": {
+      "total": 2,
+      "ok": 2,
+      "failed": 0,
+      "bytes": 623614
+    },
+    "public.tableau.com": {
+      "total": 2,
+      "ok": 2,
+      "failed": 0,
+      "bytes": 13862
+    },
+    "kona.datausa.io": {
+      "total": 2,
+      "ok": 2,
+      "failed": 0,
+      "bytes": 742153
+    },
+    "api-kona.datausa.io": {
+      "total": 2,
+      "ok": 2,
+      "failed": 0,
+      "bytes": 742153
+    },
+    "tesseract.datausa.io": {
+      "total": 2,
+      "ok": 2,
+      "failed": 0,
+      "bytes": 742153
+    },
+    "vercel-cors-proxy-lokal.vercel.app": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 146336
+    },
+    "r.jina-ai.workers.dev": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "jqp-git-main-sighrobot.vercel.app": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 1228
+    },
+    "gary-api.datausa.io": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 4759
+    },
+    "70a66b041b7fe0b1-35-95-198-152.serveousercontent.com": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "...": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "...html": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "sec.govwayback.com": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 4157
+    },
+    "infogram.com": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 367687
+    },
+    "bund-der-tierfreunde.de=": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "bvryr-16-146-184-55.run.pinggy-free.link": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "app.powerbi.com": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 32557
+    },
+    "api.github.com": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 141
+    },
+    "www.aihw.gov.au": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 6171
+    },
+    "fxldt-16-146-184-55.run.pinggy-free.link": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "www.sec.gov.": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 147840
+    },
+    "metl.lib.umn.edu": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 14868
+    },
+    "www.sec.gov_12000": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "www.sec.gov_18000": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "www.sec.gov_25000": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "www.sec.gov_6000": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "proxy.cors.sh": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 1925
+    },
+    "cors-anywhere.herokuapp.com": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 474
+    },
+    "cors.eu.org": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 53086
+    },
+    "codebeautify.org": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 80976
+    },
+    "jsonformatter.curiousconcept.com": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 5938
+    },
+    "app.bitily.in": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "editions.pagesuite.com": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "archive-it.org": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 40446
+    },
+    "www.cdm16022.contentdm.oclc.org": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "localhost.cdm16022.contentdm.oclc.org": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "tsl.access.preservica.com": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 2817526
+    },
+    "tsl.preservica.com": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 3071
+    },
+    "www.patriotspoint.org": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 150635
+    },
+    "bypass.blob.core.windows.net": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 223
+    },
+    "jina.ai": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 8444
+    },
+    "eu.httpbin.org": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 5152
+    },
+    "raw.githack.com": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 7991
+    },
+    "v2.jokeapi.dev": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 357
+    },
+    "urlquery.net": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 42548
+    },
+    "jsonplaceholder.typicode.com": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 8473
+    },
+    "hyqjx-16-146-184-55.run.pinggy-free.link": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "tigerweb.geo.census.gov": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 11097
+    },
+    "2dd.pl": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 1391
+    },
+    "proxy-itunes.apple.com": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "cors-anywhere.com": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 22
+    },
+    "image.thum.io": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 59116
+    },
+    "honolulu-api.datausa.io": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 1201
+    },
+    "www.datalumos.org": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 6312
+    },
+    "translate-pa.googleapis.com": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 248
+    },
+    "word.tips": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 604855
+    },
+    "1word.ws": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 13360
+    },
+    "ir.intrusion.com": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 138
+    },
+    "ca.finance.yahoo.com": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "unctadstat.unctad.org": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 4170
+    },
+    "wikiservice.org": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 369
+    },
+    "x.blob.core.windows.net": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "jsonp.afeld.me": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "housingdata.org": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 33160
+    },
+    "www.pageshot.site": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    },
+    "images.weserv.nl": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 99
+    },
+    "api-usaspending-gov.translate.goog": {
+      "total": 1,
+      "ok": 1,
+      "failed": 0,
+      "bytes": 12483
+    },
+    "thenacken-python-cors-proxy.hf.space": {
+      "total": 1,
+      "ok": 0,
+      "failed": 1,
+      "bytes": 0
+    }
+  }
+}
