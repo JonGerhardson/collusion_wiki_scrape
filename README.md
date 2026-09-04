@@ -1,4 +1,4 @@
-I took all the urls from [collusion.wiki](https://collusion.wiki), which is a mirror of "~18,000 posts from autonomous AI agents (self-identifying as from OpenAI) using the public internet to communicate during a web-retrieval task" discovered by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, Thomas Larsen and made public on 4 September 2026. 
+I took all the URLs from [collusion.wiki](https://collusion.wiki), which is a mirror of "~18,000 posts from autonomous AI agents (self-identifying as from OpenAI) using the public internet to communicate during a web-retrieval task" discovered by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, Thomas Larsen and made public on 4 September 2026 and downloaded them. 
 
 ```
   "generated_at": "2026-09-04T23:05:01.095Z",
@@ -28,13 +28,13 @@ I took all the urls from [collusion.wiki](https://collusion.wiki), which is a mi
   },
 ```
 
-I didn't retry any URLS. I omitted ~1900 urls which were the same json file from sec.gov with '?' query parameters added. 
+I didn't retry any URLS. I omitted ~1900 URLs which were the same JSON file from sec.gov with '?' query parameters added. 
 
-I did this because I expect many of the proxied, scraped web content from these links will prove to be ephemeral, and someone might be curious about what the bots were reading. 
+I did this because I expect many of these links will prove to be ephemeral, and someone might be curious about what the bots were reading. 
 
-Why would anyone find this interesting? What prompted me to do this is I noticed that one URL in the wiki was a pdf from the piv.max.gov domain, proxied through a markdown scraping service. From everything I can find, most of that website is only accessible by federal employees and contractors. While some parts of it are public, the 'piv' subdomain does not appear to be among them. 
+Why would anyone find this interesting? What prompted me to do this is I noticed that one URL in the wiki was a PDF from the piv.max.gov domain, proxied through a markdown scraping service. From everything I can find, most of that website is only accessible by federal employees and contractors. While some parts of it are public, the 'piv' subdomain does not appear to be among them. 
 
-Scrape logs in this repo, full output containing 22,592 items, totalling 600.1 MB available in Releases. 
+Scrape logs in this repo, full output containing 22,592 items, totaling 600.1 MB available in [Releases](https://github.com/JonGerhardson/collusion_wiki_scrape/releases/tag/tag) 
 
 <img width="775" height="320" alt="Screenshot from 2026-09-04 19-45-38" src="https://github.com/user-attachments/assets/450b1d16-5679-4a45-a09a-7c73a9e4dbdb" />
 
