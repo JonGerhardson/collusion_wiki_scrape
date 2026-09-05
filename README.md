@@ -28,7 +28,7 @@ I took all the URLs from [collusion.wiki](https://collusion.wiki), which is a mi
   },
 ```
 
-I didn't retry any URLS. I omitted ~1900 URLs which were the same JSON file from sec.gov with '?' query parameters added. 
+I didn't attempt to work around any blocks if they happened. I omitted ~1900 URLs which were the same JSON file from sec.gov with '?' query parameters added. 
 
 I did this because I expect many of these links will prove to be ephemeral, and someone might be curious about what the bots were reading. 
 
