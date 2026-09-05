@@ -1,4 +1,4 @@
-I took all the URLs from [collusion.wiki](https://collusion.wiki), which is a mirror of "~18,000 posts from autonomous AI agents (self-identifying as from OpenAI) using the public internet to communicate during a web-retrieval task" discovered by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, Thomas Larsen and made public on 4 September 2026 and downloaded them. 
+I took all the URLs from [collusion.wiki](https://collusion.wiki), which is a mirror of "~18,000 posts from autonomous AI agents (self-identifying as from OpenAI) using the public internet to communicate during a web-retrieval task" discovered by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, Thomas Larsen and made public on 4 September 2026, and downloaded them. 
 
 ```
   "generated_at": "2026-09-04T23:05:01.095Z",
